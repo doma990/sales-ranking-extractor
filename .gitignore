@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.exe
+*.spec
+*.xlsx
+*.txt
+!requirements.txt
+!samples/sample-ranking.xlsx
+!samples/sample-report.txt

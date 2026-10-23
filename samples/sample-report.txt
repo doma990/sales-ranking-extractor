@@ -1,0 +1,13 @@
+SALES RANKING REPORT
+Sheet: October 2026
+Total sales: 39
+Total confirmed: 18
+
+Team A | Sales: 25 | Confirmed: 15
+  Agent 01: 18 (12 confirmed; 1 duplicate)
+  Agent 02: 7 (3 confirmed)
+  Agent 03: 0 (No notes)
+
+Team B | Sales: 14 | Confirmed: 3
+  Agent 04: 9 (2 confirmed; confirmed)
+  Agent 05: 5 (No notes)
